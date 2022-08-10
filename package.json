@@ -1,0 +1,21 @@
+{
+  "name": "create-smart-express",
+  "bin": "./index.js",
+  "version": "1.0.0",
+  "description": "CLI tool for express project initialization with TS, auto-swagger, dotenv, rebuild-on-change scripts and more.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nikitaNotFound/create-smart-express.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nikitaNotFound/create-smart-express/issues"
+  },
+  "homepage": "https://github.com/nikitaNotFound/create-smart-express#readme"
+}
